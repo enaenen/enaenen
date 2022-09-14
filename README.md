@@ -1,6 +1,6 @@
-### Woo Joo Chae
----
 <div align="center">
+  
+  
 # Hello!
 
 I'm Woo Joo Chae
@@ -38,10 +38,11 @@ So, I'm SpaceChae
   
   
 [![Gmail Badge](https://img.shields.io/badge/Gmail-devspacechae@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=red&link=mailto:devspacechae@gmail.com)](mailto:devspacechae@gmail.com)
-  
 
+</div>
 
-
+------
+### Woo Joo Chae
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enaenen&&count_private=true&show_icons=true&theme=dark)](https://github.com/enaenen)
 <!--
 **enaenen/enaenen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
