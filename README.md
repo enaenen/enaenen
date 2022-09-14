@@ -34,8 +34,12 @@ So, I'm SpaceChae
 
 
 ## :mailbox_with_mail: Contact
+[![Naver Badge](https://img.shields.io/badge/Naver-enaenen@naver.com-green?style=for-the-badge&logo=naver&logoColor=green&link=mailto:enaenen@naver.com)](mailto:enaenen@naver.com)
   
-[![Gmail Badge](https://img.shields.io/badge/Gmail-devspacechae@gmail.com-green?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:devspacechae@gmail.com)](mailto:devspacechae@gmail.com)
+  
+[![Gmail Badge](https://img.shields.io/badge/Gmail-devspacechae@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=red&link=mailto:devspacechae@gmail.com)](mailto:devspacechae@gmail.com)
+  
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enaenen&&count_private=true&show_icons=true&theme=dark)](https://github.com/enaenen)
