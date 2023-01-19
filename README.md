@@ -5,9 +5,6 @@
 
 I'm Woo Joo Chae
 
-Woo Joo Means Space In Korean 
-
-So, I'm SpaceChae
 
 😄 I'm interested in Clean Code Architecture
 
