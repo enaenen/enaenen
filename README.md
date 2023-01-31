@@ -41,10 +41,11 @@ I'm Woo Joo Chae
 ### Woo Joo Chae
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enaenen&&count_private=true&show_icons=true&theme=dark)](https://github.com/enaenen)
 
-[![wchae's 42 stats](https://badge.mediaplus.ma/black/wchae?1337Badge=off&UM6P=off)](#)
 
 
 <!--
+[![wchae's 42 stats](https://badge.mediaplus.ma/black/wchae?1337Badge=off&UM6P=off)](#)
+
 **enaenen/enaenen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
