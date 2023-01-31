@@ -41,7 +41,7 @@ I'm Woo Joo Chae
 ### Woo Joo Chae
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enaenen&&count_private=true&show_icons=true&theme=dark)](https://github.com/enaenen)
 
-[![wchae's 42 stats](https://badge.mediaplus.ma/black/wchae?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![wchae's 42 stats](https://badge.mediaplus.ma/black/wchae?1337Badge=off&UM6P=off)](#)
 
 
 <!--
