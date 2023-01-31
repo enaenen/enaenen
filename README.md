@@ -13,7 +13,6 @@ I'm Woo Joo Chae
 <br/>
 
 
-
 ## :toolbox: Skills
 
 ![C](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -41,6 +40,10 @@ I'm Woo Joo Chae
 ------
 ### Woo Joo Chae
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enaenen&&count_private=true&show_icons=true&theme=dark)](https://github.com/enaenen)
+
+[![wchae's 42 stats](https://badge.mediaplus.ma/black/wchae?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
+
 <!--
 **enaenen/enaenen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
